@@ -6,15 +6,6 @@ This project implements a simple messaging system demonstrating **asynchronous t
 
 ---
 
-## Table of Contents
-- [Objective](#objective)  
-- [System Architecture](#system-architecture)  
-- [Functional Requirements](#functional-requirements)  
-- [Implementation Steps](#implementation-steps)  
-- [Testing Procedure](#testing-procedure)  
-- [Technologies Used](#technologies-used)  
-- [Deliverables](#deliverables)  
-- [Conclusion](#conclusion)  
 
 ---
 
@@ -193,6 +184,7 @@ Reverse proxying with Nginx.
 
 External access via ngrok for testing.
 It serves as a foundational example for building scalable and asynchronous Python applications.
+
 
 
 
